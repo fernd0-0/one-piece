@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;/*Facilita a sua vida alterar as box*/
+
+}
+ul{
+    list-style: none;
+}
